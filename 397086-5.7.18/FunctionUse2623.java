@@ -1,0 +1,6 @@
+import cn.hutool.core.io.CharsetDetector;
+public class FunctionUse2623 {
+public void funcUse() {
+CharsetDetector charsetdetector = new CharsetDetector();
+}
+}

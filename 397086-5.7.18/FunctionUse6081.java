@@ -1,0 +1,6 @@
+import cn.hutool.core.util.CharsetUtil;
+public class FunctionUse6081 {
+public void funcUse() {
+CharsetUtil charsetutil = new CharsetUtil();
+}
+}
